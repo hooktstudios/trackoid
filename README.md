@@ -1,6 +1,8 @@
 # Trackoid
 
-Trackoid is an analytics tracking system made specifically for MongoDB using Mongoid as ORM.
+> Trackoid is an analytics tracking system made specifically for MongoDB using Mongoid as ORM.
+
+[![Build Status](https://travis-ci.org/hooktstudios/trackoid.png)](https://travis-ci.org/hooktstudios/trackoid)
 
 ## IMPORTANT upgrade information
 
